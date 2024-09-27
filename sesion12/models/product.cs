@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace sesion12.models
 {
-    internal class @struct
+    internal class product
     {
+
     }
 }
